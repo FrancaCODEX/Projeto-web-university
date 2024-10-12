@@ -1,6 +1,4 @@
-Aqui está o texto pronto para você colar no seu `README.md`:
 
----
 
 # Universidade Horizonte
 
